@@ -8,7 +8,7 @@
 * Read the <a href="http://getbootstrap.com/getting-started" target="_blank">Boostrap docs</a> to get started. In `index.html` you'll need:
   * `meta` tag to set the viewport (makes your site responsive)
   * Bootstrap CSS CDN
-  * jQuery CDN (must come before Bootstrap JS)
+  * jQuery CDN (must be required before Bootstrap JS)
   * Bootstrap JavaScript CDN
 * You won't need to write any of your own CSS for this exercise, but we've included a `main.css` file that fixes the margin between the `navbar` and `jumbotron`. Make sure to link to `main.css` in your HTML file to get this fix.
 * Note that you need jQuery and Bootstrap's JavaScript library to make some of Bootstrap's components work (e.g. mobile nav), but you won't be writing any jQuery or JavaScript in this exercise.
