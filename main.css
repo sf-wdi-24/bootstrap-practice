@@ -3,28 +3,29 @@
 body {
 	width: 90%;
 }
-.main-content .row:before,
+.main-content .row:before footer:before .clearfix:before
 .main-content .row:after {
    content: none;
 }
 .row {
 	width: 100%;
+	margin: 10px 10px 10px 50px auto;
 }
 .navbar #whee {
   margin-bottom: 0;
-  display: block; 
+  display: none; 
 }
 .navbar:after {
-	display: block
+	display: none
 }
 .navbar:before {
-	display: block; 
+	display: none; 
 }
 .threeImgs {
 	width: 100%;
 }
 .threeboxes {
-	width: 27%;
+	width: 30%;
 	float: both;
 }
 .clearfix:after {
